@@ -2,7 +2,7 @@ name: json_config_annotation
 description: >
   Annotations for the configuration code-generator.
   This package does nothing without json_config_generator too.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/deCardenas/json_config_annotation
 
 environment:
