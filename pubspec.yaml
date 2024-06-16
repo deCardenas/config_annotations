@@ -2,8 +2,8 @@ name: json_config_annotation
 description: >
   Annotations for the configuration code-generator.
   This package does nothing without json_config_generator too.
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/deCardenas/json_config_annotation
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
